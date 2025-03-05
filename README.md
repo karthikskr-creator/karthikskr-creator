@@ -10,4 +10,4 @@
 karthikskr-creator/karthikskr-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-To acquire a challenging career with a solid company the Opportunity to offer proven and developing skills with the Company
+
